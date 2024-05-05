@@ -1,16 +1,24 @@
-# SIMple MERN_Stack_CRUD_Application
+# Simple MERN_Stack_CRUD_Application
 
 ## Part - 01
 
 1.Project Folder Creation.
+
 2.Express Server Configuration.
+
 3.MongoDb Configuration.
+
 4.REST API Creation (GET,POST,PUT,DELETE).
+
 5.Testing the APIs using Postman.
+
+<hr/>
 
 1.Project Folder Creation.
 
 npm init -y make the package with default values
+
+<hr/>
 
 2.Express Server Configuration.
 
@@ -29,6 +37,8 @@ npm i express nodemon cors mongoose body-parser
 
 **run the server - npm start**
 
+<hr/>
+
 3.MongoDb Configuration.
 
 1. Create a project
@@ -37,6 +47,8 @@ npm i express nodemon cors mongoose body-parser
 4. Configure Network Access - readWriteAnyDatabase
    - Add current IP address - Production level
    - Allow access from anywhere - Recommend for this app
+
+<hr/>
 
 4.REST API Creation (GET,POST,PUT,DELETE).
 
