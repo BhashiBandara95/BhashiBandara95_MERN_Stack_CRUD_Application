@@ -37,10 +37,6 @@ npm i express nodemon cors mongoose body-parser
 4. Configure Network Access - readWriteAnyDatabase
    - Add current IP address - Production level
    - Allow access from anywhere - Recommend for this app
-     Uname : amandabhashitha95
-     Pwd : sTAXcgnrlbjbf6cK
-     New_User : abk
-     New_User_pwd : abk321
 
 4.REST API Creation (GET,POST,PUT,DELETE).
 
